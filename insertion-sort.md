@@ -1,7 +1,7 @@
 # Patika.dev Veri Yapıları ve Algoritmalar dersinde bulunan Insertion Sort ödevi
-___
+
 #### [22,27,16,2,18,6] dizisinin Insertion Sort'a göre sıralanması
-___
+
 
 |1.Adım|22|16|27|2|18|6|
 |------|-|-|-|-|-|-|
@@ -37,14 +37,13 @@ ___
 |------|-|-|-|-|-|-|
 
 #### Big-O Notation gösterimi
-____
+
 
 n'den 1'e kadar sayılara bakıldığı için 
 
 n(n+1)/2 = n^2+n/2 = **O(n^2)** 'dir.
 
 #### Time Complexity
-____
 
 ##### Worst Case
 
@@ -60,12 +59,12 @@ Algoritma bir kere çalışır ve Best Case **O(n)**'dir.
 
 
 #### Dizi Sıralandıktan sonra 18 sayısı hangi case kapsamına girer.
-___
+
 
 Ortada bulunduğu için **Average Case** kapsamına girer.
 
 #### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
-___
+
 
 |1.Adım|7|3|5|8|2|9|4|15|6|
 |------|-|-|-|-|-|-|-|-|-|
